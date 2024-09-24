@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.d1{
+    /* height: 100%; */
+    width: 100%;
+    
+}
+.logo{
+    color: white;
+    font-size: xx-large;
+    text-decoration: none;
+}
+.navbar-nav{
+    
+    /* padding: 10px; */
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+
+}
+
+.icon{
+    color: white;
+}
+
+.sec2{
+    background-image: url(homeimage/gym2.jpeg);
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.build{
+    color: rgba(255, 255, 255, 0.658);
+    font-size: larger;
+    text-decoration: none;
+    margin-bottom:20px;
+}
+.main-head{
+    color: white;
+}
+
+.child-head{
+    color: white;
+}
+.btn1{
+    
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    
+}
+.btn2{
+    
+    text-decoration: none;
+    margin: 10px;
+    color: red;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button{
+    padding-top: 25px;
+}
+
+.btn1:hover{
+    color: red;
+}
+
+.sec3{
+
+    background-color: rgba(0, 0, 0, 0.918);
+    
+}
+.left{
+    color: white;
+    padding: 20px;
+    line-height: 40px;
+    
+}
+.btn3{
+    background-color: red; 
+    color: white;
+    padding: 10px;
+    
+}
+
+
+.right{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+}
+
+.time{
+    
+    /* padding: 10px; */
+    color: gray;
+    text-decoration: none;
+}
+
+.white{
+    color:white;
+    text-decoration: none;
+    font-weight:bold;
+    padding: 10px;
+}
