@@ -38,7 +38,7 @@ body {
     width: 100%;
     /* height: calc(100% - 60px); */
     height: 100vh;
-    background: url(/homeimage/gym2.jpeg);
+    background: url(./homeimage/gym2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     /* height: 100%; */
